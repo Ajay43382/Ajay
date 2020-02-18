@@ -1,2 +1,2 @@
-# Ajay
-Famous problem solution from Hackerearth
+# C++
+#Various Coding Practice Platform Solution
